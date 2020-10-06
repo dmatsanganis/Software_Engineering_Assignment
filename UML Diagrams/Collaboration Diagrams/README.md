@@ -24,6 +24,36 @@ So, here are some use cases that we want to create a **_Collaboration Diagram_**
 - Each message in a collaboration diagram has a sequence number.
 - The top-level message is numbered 1. Messages sent during the same call have the same decimal prefix but suffixes of 1, 2, etc. according to when they occur.
 
+## Notations of Collaboration Diagram.
+### Objects
+You can use objects in collaboration diagrams in the following ways:
+
+Each object in the collaboration is named and has its class specified
+Not all classes need to appear
+There may be more than one object of a class
+An object’s class can be unspecified. Normally you create a collaboration diagram with objects first and specify their classes later.
+The objects can be unnamed, but you should name them if you want to discriminate different objects of the same class.
+Actors
+Normally an actor instance occurs in the collaboration diagram, as the invoker of the interaction. If you have several actor instances in the same diagram, try keeping them in the periphery of the diagram.
+
+Each Actor is named and has a role
+One actor will be the initiator of the use case
+Links
+Links connect objects and actors and are instances of associations and each link corresponds to an association in the class diagram
+
+Links are defined as follows:
+
+A link is a relationship among objects across which messages can be sent. In collaboration diagrams, a link is shown as a solid line between two objects.
+An object interacts with, or navigates to, other objects through its links to these objects.
+A link can be an instance of an association, or it can be anonymous, meaning that its association is unspecified.
+Message flows are attached to links, see Messages.
+Messages
+A message is a communication between objects that conveys information with the expectation that activity will ensue. In collaboration diagrams, a message is shown as a labeled arrow placed near a link.
+
+The message is directed from sender to receiver
+The receiver must understand the message
+The association must be navigable in that direction
+
 - [x] Collaboration Diagrams first version (v1).
 - [x] Collaboration Diagrams second and final version (v2).
 
