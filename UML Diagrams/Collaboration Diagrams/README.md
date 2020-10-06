@@ -69,6 +69,8 @@ A message is a communication between objects that conveys information with the e
 ## Collaboration Diagram in Robustness Diagram Format.
 You can have objects and actor instances in **_Collaboration Diagrams_**, together with links and messages describing how they are related and how they interact. The Receive Deposit Item in the Recycling-Machine System diagram shown below describes what takes place in the participating objects, in terms of how the objects communicate by sending messages to one another. You can make a **_Collaboration Diagram_** for each variant of a use case’s flow of events.
 
+![alt text](https://github.com/dimitrismatsanganis/Software_Engineering_Assignment/blob/master/Collaboration_Diagram_v2_Subjects_Student.jpeg.jpg?raw=true)
+
 ## For this project you can find:
 - [x] Collaboration Diagrams first version (v1).
 - [x] Collaboration Diagrams second and final version (v2).
