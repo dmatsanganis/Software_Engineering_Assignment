@@ -60,11 +60,11 @@ A message is a communication between objects that conveys information with the e
 ## Steps for Creating Collaboration Diagrams.
 1. Identify behavior whose realization and implementation is specified.
 2. Identify the structural elements (class roles, objects, subsystems) necessary to carry out the functionality of the collaboration.
-  - Decide on the context of interaction: system, subsystem, use case and operation.
+    - Decide on the context of interaction: system, subsystem, use case and operation.
 3. Model structural relationships between those elements to produce a diagram showing the context of the interaction.
 4. Consider the alternative scenarios that may be required.
-  - Draw instance level collaboration diagrams, if required.
-  - Optionally draw a specification level collaboration diagram to summarize the alternative scenarios in the instance level sequence diagrams.
+    - Draw instance level collaboration diagrams, if required.
+    - Optionally draw a specification level collaboration diagram to summarize the alternative scenarios in the instance level sequence diagrams.
 
 - [x] Collaboration Diagrams first version (v1).
 - [x] Collaboration Diagrams second and final version (v2).
