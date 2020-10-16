@@ -1,5 +1,11 @@
 # Activity Diagrams
+**_Activity Diagram_** is another important behavioral diagram in UML diagram to describe dynamic aspects of the system.
+**_Activity Diagram_** is essentially an advanced version of flow chart that modeling the flow from one _activity_ to another activity.
 
 ## What is Activity Diagram?
 
-Activity diagram is another important behavioral diagram in UML diagram to describe dynamic aspects of the system. Activity diagram is essentially an advanced version of flow chart that modeling the flow from one activity to another activity.
+The **_Unified Modeling Language_** includes several subsets of diagrams, including structure diagrams, interaction diagrams, and behavior diagrams. 
+**_Activity Diagrams_**, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
+
+Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. 
+**_Activity Diagrams_** help people on the business and development sides of an organization come together to understand the same process and behavior.
