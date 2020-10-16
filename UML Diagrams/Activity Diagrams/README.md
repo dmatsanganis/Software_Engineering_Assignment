@@ -28,7 +28,7 @@ Stakeholders have many issues to manage, so it's important to communicate with c
 
 Some of the most common components of an **_Activity Diagram_** include:
 
-- **Action:** A step in the activity wherein the users or software perform a given task. In Lucidchart, actions are symbolized with round-edged rectangles.
+- **Action:** A step in the activity wherein the users or software perform a given task.
 
 - **Decision node:** A conditional branch in the flow that is represented by a diamond. It includes a single input and two or more outputs.
 
