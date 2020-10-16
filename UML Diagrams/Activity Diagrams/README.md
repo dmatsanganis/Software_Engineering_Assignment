@@ -37,3 +37,7 @@ Some of the most common components of an **_Activity Diagram_** include:
 - **Start node:** Symbolizes the beginning of the activity. The start node is represented by a black circle.
 
 - **End node:** Represents the final step in the activity. The end node is represented by an outlined black circle.
+
+## For this project you can find:
+- [x] Activity Diagrams first version (v1).
+- [x] Activity Diagrams second and final version (v2).
