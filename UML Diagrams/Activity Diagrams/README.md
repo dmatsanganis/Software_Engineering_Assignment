@@ -11,7 +11,7 @@ Stakeholders have many issues to manage, so it's important to communicate with c
 **_Activity Diagrams_** help people on the business and development sides of an organization come together to understand the same process and behavior.
 
 ## Benefits of Activity Diagrams
-- **_Activity Diagrams_** present a number of benefits to users. Consider creating an activity diagram to:
+**_Activity Diagrams_** present a number of benefits to users. Consider creating an **_Activity Diagram_** to:
 
 - Demonstrate the logic of an algorithm.
 
