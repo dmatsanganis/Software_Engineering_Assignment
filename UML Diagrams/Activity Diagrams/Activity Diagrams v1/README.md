@@ -1,3 +1,1 @@
-
-
-##Activity Diagrams
+## Activity Diagrams
