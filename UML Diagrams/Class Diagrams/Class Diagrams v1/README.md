@@ -1,5 +1,5 @@
 ## Class Diagrams version 1 (v1)
-**_Activity Diagrams v2_** is our second and final approach of **_Activity Diagrams_** for the Project.
+**_Activity Diagrams v1_** is our initial approach of **_Activity Diagrams_** for the Project.
 
 ## Activity Diagrams version 2 (v2) includes:
 - [x] Activity_Diagram_v2.vpd
