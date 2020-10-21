@@ -1,9 +1,9 @@
-## Class Diagrams version 2 (v2)
-**_Class Diagrams v2_** is our second approach of **_Class Diagrams_** for the Project.
+## Class Diagrams version 3 (v3)
+**_Class Diagrams v3_** is our third and final approach of **_Class Diagrams_** for the Project.
 
-Some meaningful changes have been made.
+Some meaningful changes have been made and the **_Class Diagrams_** have now their final form.
 
-## Class Diagrams version 2 (v2) includes:
+## Class Diagrams version 3 (v3) includes:
 - [x] Class_Diagram_v2_General.png
 - [x] Class_Diagram_v2_part1.png
 - [x] Class_Diagram_v2_part2.png
