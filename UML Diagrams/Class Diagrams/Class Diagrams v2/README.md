@@ -18,6 +18,3 @@ A **_Class Diagrams_** in the _Unified Modeling Language (UML)_ is a type of sta
 - their attributes,
 - operations (or methods),
 - and the relationships among objects.
-
-
-
