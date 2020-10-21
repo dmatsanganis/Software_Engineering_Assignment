@@ -1,5 +1,6 @@
 ## Class Diagrams version 2 (v2)
 **_Class Diagrams v2_** is our second approach of **_Class Diagrams_** for the Project.
+
 Some meaningful changes have been made.
 
 ## Class Diagrams version 2 (v2) includes:
