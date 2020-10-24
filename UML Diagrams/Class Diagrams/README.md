@@ -24,3 +24,4 @@ A **_Class_** represent a concept which encapsulates state (attributes) and beha
 - The return type of a method is shown after the colon at the end of the method signature.
 - The return type of method parameters are shown after the colon following the parameter name. Operations map onto class methods in code.
 
+![class_diagram_theory2](https://user-images.githubusercontent.com/34712449/97092764-432a3880-164f-11eb-980f-38a67d4de2ec.png)
