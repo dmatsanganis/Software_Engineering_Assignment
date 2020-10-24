@@ -25,3 +25,11 @@ A **_Class_** represent a concept which encapsulates state (attributes) and beha
 - The return type of method parameters are shown after the colon following the parameter name. Operations map onto class methods in code.
 
 ![class_diagram_theory2](https://user-images.githubusercontent.com/34712449/97092764-432a3880-164f-11eb-980f-38a67d4de2ec.png)
+
+## Class Diagram Visibility
+The +, - and # symbols before an attribute and operation name in a class denote the visibility of the attribute and operation.
+
+### Class Visibility pics
++: denotes public attributes or operations
+-: denotes private attributes or operations
+#: denotes protected attributes or operations
