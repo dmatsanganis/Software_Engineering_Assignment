@@ -1,2 +1,2 @@
 ## Class Diagrams
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/class_diagram_theory.png)
