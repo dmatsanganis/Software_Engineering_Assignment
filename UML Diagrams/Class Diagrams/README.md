@@ -35,3 +35,6 @@ The +, - and # symbols before an attribute and operation name in a class denote 
 - -: denotes private attributes or operations
 - #: denotes protected attributes or operations
 
+## Parameter Directionality
+Each parameter in an operation (method) may be denoted as in, out or inout which specifies its direction with respect to the caller. This directionality is shown before the parameter name.
+
