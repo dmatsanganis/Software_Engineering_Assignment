@@ -31,6 +31,7 @@ The +, - and # symbols before an attribute and operation name in a class denote 
 
 ![class_diagram_theory3](https://user-images.githubusercontent.com/34712449/97092810-aae08380-164f-11eb-9dfa-abef4590df5c.png)
 
-- + denotes public attributes or operations
-- - denotes private attributes or operations
-- # denotes protected attributes or operations
+- +: denotes public attributes or operations
+- -: denotes private attributes or operations
+- #: denotes protected attributes or operations
+
