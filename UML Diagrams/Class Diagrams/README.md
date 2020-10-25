@@ -38,3 +38,4 @@ The +, - and # symbols before an attribute and operation name in a class denote 
 ## Parameter Directionality
 Each parameter in an operation (method) may be denoted as in, out or inout which specifies its direction with respect to the caller. This directionality is shown before the parameter name.
 
+![class_diagram_theory4](https://user-images.githubusercontent.com/34712449/97113171-39f1a800-16f1-11eb-8af1-2d7e7f078792.png)
