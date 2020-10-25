@@ -26,7 +26,7 @@ A **_Class_** represent a concept which encapsulates state (attributes) and beha
 
 ![class_diagram_theory2](https://user-images.githubusercontent.com/34712449/97092764-432a3880-164f-11eb-980f-38a67d4de2ec.png)
 
-## Class Diagram Visibility
+### Class Diagram Visibility
 The +, - and # symbols before an attribute and operation name in a class denote the visibility of the attribute and operation.
 
 ![class_diagram_theory3](https://user-images.githubusercontent.com/34712449/97092810-aae08380-164f-11eb-9dfa-abef4590df5c.png)
@@ -35,7 +35,9 @@ The +, - and # symbols before an attribute and operation name in a class denote 
 - -: denotes private attributes or operations
 - #: denotes protected attributes or operations
 
-## Parameter Directionality
+### Parameter Directionality
 Each parameter in an operation (method) may be denoted as in, out or inout which specifies its direction with respect to the caller. This directionality is shown before the parameter name.
 
 ![class_diagram_theory4](https://user-images.githubusercontent.com/34712449/97113171-39f1a800-16f1-11eb-8af1-2d7e7f078792.png)
+
+### Perspectives of Class Diagram
