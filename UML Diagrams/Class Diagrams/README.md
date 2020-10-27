@@ -46,3 +46,9 @@ The choice of perspective depends on how far along you are in the development pr
 **_Analysis models_** will typically feature a mix of **_conceptual and specification perspectives. Design model_** development will typically start with heavy emphasis on the **_specification perspective_**, and evolve into the **_implementation perspective_**.
 
 A **_Class Diagram_** can be interpreted from various perspectives:
+
+- Conceptual: represents the concepts in the domain
+- Specification: focus is on the interfaces of Abstract Data Type (ADTs) in the software
+- Implementation: describes how classes will implement their interfaces
+
+The perspective affects the amount of detail to be supplied and the kinds of relationships worth presenting. As we mentioned above, the class name is the only mandatory information.
