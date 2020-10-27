@@ -47,8 +47,8 @@ The choice of perspective depends on how far along you are in the development pr
 
 A **_Class Diagram_** can be interpreted from various perspectives:
 
-- Conceptual: represents the concepts in the domain
-- Specification: focus is on the interfaces of Abstract Data Type (ADTs) in the software
-- Implementation: describes how classes will implement their interfaces
+- **_Conceptual:_** represents the concepts in the domain
+- **_Specification:_** focus is on the interfaces of Abstract Data Type (ADTs) in the software
+- **_Implementation:_** describes how classes will implement their interfaces
 
 The perspective affects the amount of detail to be supplied and the kinds of relationships worth presenting. As we mentioned above, the class name is the only mandatory information.
