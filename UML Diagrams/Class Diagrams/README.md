@@ -43,4 +43,6 @@ Each parameter in an operation (method) may be denoted as in, out or inout which
 ## Perspectives of Class Diagram
 The choice of perspective depends on how far along you are in the development process. During the formulation of a **_domain model_**, for example, you would seldom move past the **_conceptual perspective_**. 
 
-**_Analysis models_** will typically feature a mix of conceptual and specification perspectives. Design model development will typically start with heavy emphasis on the specification perspective, and evolve into the implementation perspective.
+**_Analysis models_** will typically feature a mix of **_conceptual and specification perspectives. Design model_** development will typically start with heavy emphasis on the **_specification perspective_**, and evolve into the **_implementation perspective_**.
+
+A **_Class Diagram_** can be interpreted from various perspectives:
