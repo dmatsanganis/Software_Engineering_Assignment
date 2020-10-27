@@ -51,4 +51,4 @@ A **_Class Diagram_** can be interpreted from various perspectives:
 - **_Specification:_** focus is on the interfaces of Abstract Data Type (ADTs) in the software
 - **_Implementation:_** describes how classes will implement their interfaces
 
-The perspective affects the amount of detail to be supplied and the kinds of relationships worth presenting. As we mentioned above, the class name is the only mandatory information.
+The perspective affects the amount of detail to be supplied and the kinds of relationships worth presenting. The class name is the only mandatory information.
