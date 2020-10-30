@@ -1,7 +1,7 @@
 ## Class Diagrams Theory
 **_Class Diagrams Theory_** includes all the images, which have been used for the descriptions (README.md files) of the _Project_ related to **_Class Diagrams_**.
 
-## Class Diagrams version 1 (v1) includes:
+## Class Diagrams Theory includes:
 - [x] class_diagram_theory1.png
 - [x] class_diagram_theory2.png
 - [x] class_diagram_theory3.png
