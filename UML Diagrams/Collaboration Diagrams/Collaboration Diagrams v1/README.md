@@ -4,29 +4,22 @@
 ## Collaboration Diagrams version 1 (v1) includes:
 - [x] Collaboration_Diagram_v1_Announcement_Secretary.jpeg
 - [x] Collaboration_Diagram_v1_ContactMainSecretary_Guest.png
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] Collaboration_Diagram_v1_ContactMainSecretary_Secretary.jpeg
+- [x] Collaboration_Diagram_v1_ContactMainSecretary_Student.jpeg
+- [x] Collaboration_Diagram_v1_ContactMainSecretary_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_EmailToSecretary_Student.jpeg
+- [x] Collaboration_Diagram_v1_EmailToSecretary_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_EmailToTeacher_Student.jpeg
+- [x] Collaboration_Diagram_v1_Grades_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_Login_Secretary.jpeg
+- [x] Collaboration_Diagram_v1_Login_Student.jpeg
+- [x] Collaboration_Diagram_v1_Login_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_RegisterStudent_Secretary.jpeg
 
-Collaboration_Diagram_v1_ContactMainSecretary_Secretary.jpeg
-Collaboration_Diagram_v1_ContactMainSecretary_Student.jpeg
-Collaboration_Diagram_v1_ContactMainSecretary_Teacher.jpeg
-Collaboration_Diagram_v1_EmailToSecretary_Student.jpeg
-Collaboration_Diagram_v1_EmailToSecretary_Teacher.jpeg
-Collaboration_Diagram_v1_EmailToTeacher_Student.jpeg
-Collaboration_Diagram_v1_Grades_Teacher.jpeg
-Collaboration_Diagram_v1_Login_Secretary.jpeg
-Collaboration_Diagram_v1_Login_Student.jpeg
-Collaboration_Diagram_v1_Login_Teacher.jpeg
-Collaboration_Diagram_v1_RegisterStudent_Secretary.jpeg
+
+
+
+
 Collaboration_Diagram_v1_SeeAssignments_Teacher.jpeg
 Collaboration_Diagram_v1_SeeMessages_Teacher.jpeg
 Collaboration_Diagram_v1_Subjects_Student.jpeg
