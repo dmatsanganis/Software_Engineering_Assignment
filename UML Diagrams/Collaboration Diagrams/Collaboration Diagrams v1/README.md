@@ -2,10 +2,39 @@
 **_Collaboration Diagrams v1_** is our initial approach of **_Collaboration Diagrams_** for the Project.
 
 ## Collaboration Diagrams version 1 (v1) includes:
-- [x] Class_Diagram_v1_Guest.jpg
-- [x] Class_Diagram_v1_Secretary.jpg
-- [x] Class_Diagram_v1_Student.jpg
-- [x] Class_Diagram_v1_Teacher.jpg
+- [x] Collaboration_Diagram_v1_Announcement_Secretary.jpeg
+- [x] Collaboration_Diagram_v1_ContactMainSecretary_Guest.png
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+
+Collaboration_Diagram_v1_ContactMainSecretary_Secretary.jpeg
+Collaboration_Diagram_v1_ContactMainSecretary_Student.jpeg
+Collaboration_Diagram_v1_ContactMainSecretary_Teacher.jpeg
+Collaboration_Diagram_v1_EmailToSecretary_Student.jpeg
+Collaboration_Diagram_v1_EmailToSecretary_Teacher.jpeg
+Collaboration_Diagram_v1_EmailToTeacher_Student.jpeg
+Collaboration_Diagram_v1_Grades_Teacher.jpeg
+Collaboration_Diagram_v1_Login_Secretary.jpeg
+Collaboration_Diagram_v1_Login_Student.jpeg
+Collaboration_Diagram_v1_Login_Teacher.jpeg
+Collaboration_Diagram_v1_RegisterStudent_Secretary.jpeg
+Collaboration_Diagram_v1_SeeAssignments_Teacher.jpeg
+Collaboration_Diagram_v1_SeeMessages_Teacher.jpeg
+Collaboration_Diagram_v1_Subjects_Student.jpeg
+Collaboration_Diagram_v1_Subjects_Teacher.jpeg
+Collaboration_Diagram_v1_VisitMain_Guest.PNG
+Collaboration_Diagram_v1_VisitMain_Secretary.jpeg
+Collaboration_Diagram_v1_VisitMain_Student.jpeg
+Collaboration_Diagram_v1_VisitMain_Teacher.jpeg
 
 
 ## Collaboration Diagrams 
