@@ -15,20 +15,18 @@
 - [x] Collaboration_Diagram_v2_Grades_Secretary.jpeg
 - [x] Collaboration_Diagram_v2_Grades_Student.jpeg
 - [x] Collaboration_Diagram_v2_Grades_Teacher.jpeg
-- [x] Collaboration_Diagram_v1_Login_Secretary.jpeg
-- [x] Collaboration_Diagram_v1_Login_Student.jpeg
-- [x] Collaboration_Diagram_v1_Login_Teacher.jpeg
-- [x] Collaboration_Diagram_v1_RegisterStudent_Secretary.jpeg
-- [x] Collaboration_Diagram_v1_SeeAssignments_Teacher.jpeg
-- [x] Collaboration_Diagram_v1_SeeMessages_Teacher.jpeg
-- [x] Collaboration_Diagram_v1_Subjects_Student.jpeg
-- [x] Collaboration_Diagram_v1_Subjects_Teacher.jpeg
-Collaboration_Diagram_v2_UploadAssignment_Student.jpeg
-
-- [x] Collaboration_Diagram_v1_VisitMain_Guest.png
-- [x] Collaboration_Diagram_v1_VisitMain_Secretary.jpeg
-- [x] Collaboration_Diagram_v1_VisitMain_Student.jpeg
-- [x] Collaboration_Diagram_v1_VisitMain_Teacher.jpeg
+- [x] Collaboration_Diagram_v2_Login_Secretary.jpeg
+- [x] Collaboration_Diagram_v2_Login_Student.jpeg
+- [x] Collaboration_Diagram_v2_Login_Teacher.jpeg
+- [x] Collaboration_Diagram_v2_RegisterStudent_Secretary.jpeg
+- [x] Collaboration_Diagram_v2_SeeMessages_Teacher.jpeg
+- [x] Collaboration_Diagram_v2_Subjects_Student.jpeg
+- [x] Collaboration_Diagram_v2_Subjects_Teacher.jpeg
+- [x] Collaboration_Diagram_v2_UploadAssignment_Student.jpeg
+- [x] Collaboration_Diagram_v2_VisitMain_Guest.png
+- [x] Collaboration_Diagram_v2_VisitMain_Secretary.jpeg
+- [x] Collaboration_Diagram_v2_VisitMain_Student.jpeg
+- [x] Collaboration_Diagram_v2_VisitMain_Teacher.jpeg
 
 
 ## Collaboration Diagrams 
