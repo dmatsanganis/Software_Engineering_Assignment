@@ -15,19 +15,14 @@
 - [x] Collaboration_Diagram_v1_Login_Student.jpeg
 - [x] Collaboration_Diagram_v1_Login_Teacher.jpeg
 - [x] Collaboration_Diagram_v1_RegisterStudent_Secretary.jpeg
-
-
-
-
-
-Collaboration_Diagram_v1_SeeAssignments_Teacher.jpeg
-Collaboration_Diagram_v1_SeeMessages_Teacher.jpeg
-Collaboration_Diagram_v1_Subjects_Student.jpeg
-Collaboration_Diagram_v1_Subjects_Teacher.jpeg
-Collaboration_Diagram_v1_VisitMain_Guest.PNG
-Collaboration_Diagram_v1_VisitMain_Secretary.jpeg
-Collaboration_Diagram_v1_VisitMain_Student.jpeg
-Collaboration_Diagram_v1_VisitMain_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_SeeAssignments_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_SeeMessages_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_Subjects_Student.jpeg
+- [x] Collaboration_Diagram_v1_Subjects_Teacher.jpeg
+- [x] Collaboration_Diagram_v1_VisitMain_Guest.PNG
+- [x] Collaboration_Diagram_v1_VisitMain_Secretary.jpeg
+- [x] Collaboration_Diagram_v1_VisitMain_Student.jpeg
+- [x] Collaboration_Diagram_v1_VisitMain_Teacher.jpeg
 
 
 ## Collaboration Diagrams 
