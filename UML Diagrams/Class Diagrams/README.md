@@ -67,3 +67,5 @@ The perspective affects the amount of detail to be supplied and the kinds of rel
 - [x] Class Diagrams second version v2
 - [x] Class Diagrams third and final version v3
 - [x] Class Diagrams Theory
+
+
