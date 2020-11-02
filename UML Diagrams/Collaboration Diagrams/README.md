@@ -74,3 +74,4 @@ You can have objects and actor instances in **_Collaboration Diagrams_**, togeth
 ## For this project you can find:
 - [x] Collaboration Diagrams first version (v1).
 - [x] Collaboration Diagrams second and final version (v2).
+
