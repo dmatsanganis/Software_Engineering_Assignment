@@ -55,3 +55,6 @@ The perspective affects the amount of detail to be supplied and the kinds of rel
 
 ![class_diagram_theory5](https://user-images.githubusercontent.com/34712449/97292772-59edac80-1854-11eb-89e0-40d9fcc73bb4.png)
 
+## For this project you can find:
+- [x] Activity Diagrams first version (v1).
+- [x] Activity Diagrams second and final version (v2).
