@@ -23,3 +23,5 @@ A **_Component Diagram_** in UML gives a _bird’s-eye view of your software sys
 
 UML is a set of conventions for object-oriented diagrams that has a wide variety of applications.
 In **_Component Diagrams_**, the Unified Modeling Language dictates that components and packages are wired together with lines representing assembly connectors and delegation connectors. 
+
+![Component_Diagrams_Theory](https://user-images.githubusercontent.com/34712449/97993998-7b6b0d00-1ded-11eb-9a8f-d7fcdbc115d0.png)
