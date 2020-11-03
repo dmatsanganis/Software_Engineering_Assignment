@@ -26,12 +26,5 @@ In **_Component Diagrams_**, the Unified Modeling Language dictates that compone
 
 ![Component_Diagrams_Theory](https://user-images.githubusercontent.com/34712449/97993998-7b6b0d00-1ded-11eb-9a8f-d7fcdbc115d0.png)
 
-## How to make a Component Diagram
-To craft an intricate **_Component Diagram_** in UML from scratch, properly, follow the steps below:
-
-- Open a blank document or start with a template.
-Enable the UML shape library. Click "Shapes" on the left side of the editor, check "UML" in the Shape Library Manager, and click "Save."
-
-Select the shape you want from the library you added, and drag the shape from the toolbox to the canvas.
-
-Model the process flow by drawing lines between shapes.
+## Component Diagram examples
+UML component diagrams bring simplicity to even the most complex processes. Take a look at the examples below to see how you can map the behaviors of specific processes with component diagrams in UML.
