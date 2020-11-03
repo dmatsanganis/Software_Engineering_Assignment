@@ -18,6 +18,8 @@ Though **_Component Diagrams_** may seem complex at first glance, they are inval
 - Emphasize the service behavior as it relates to the interface.
 
 ## How to use Component Diagrams
-A component diagram in UML gives a bird’s-eye view of your software system. Understanding the exact service behavior that each piece of your software provides will make you a better developer. Component diagrams can describe software systems that are implemented in any programming language or style.
+A **_Component Diagram_** in UML gives a _bird’s-eye view of your software system_. Understanding the exact service behavior that each piece of your software provides will make you a better developer. 
+**_Component Diagrams_** can describe software systems that are implemented in any programming language or style.
 
-UML is a set of conventions for object-oriented diagrams that has a wide variety of applications. In component diagrams, the Unified Modeling Language dictates that components and packages are wired together with lines representing assembly connectors and delegation connectors. 
+UML is a set of conventions for object-oriented diagrams that has a wide variety of applications.
+In **_Component Diagrams_**, the Unified Modeling Language dictates that components and packages are wired together with lines representing assembly connectors and delegation connectors. 
