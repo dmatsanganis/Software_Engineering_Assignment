@@ -25,3 +25,14 @@ UML is a set of conventions for object-oriented diagrams that has a wide variety
 In **_Component Diagrams_**, the Unified Modeling Language dictates that components and packages are wired together with lines representing assembly connectors and delegation connectors. 
 
 ![Component_Diagrams_Theory](https://user-images.githubusercontent.com/34712449/97993998-7b6b0d00-1ded-11eb-9a8f-d7fcdbc115d0.png)
+
+## How to make a Component Diagram
+In Lucidchart, you can easily craft an intricate component diagram in UML from scratch. Just follow the steps below:
+
+Open a blank document or start with a template.
+
+Enable the UML shape library. Click "Shapes" on the left side of the editor, check "UML" in the Shape Library Manager, and click "Save."
+
+Select the shape you want from the library you added, and drag the shape from the toolbox to the canvas.
+
+Model the process flow by drawing lines between shapes.
