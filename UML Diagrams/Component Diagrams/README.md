@@ -9,12 +9,14 @@ There exists a whole development approach that revolves around components: compo
 In an Object Oriented Programming approach, the **_Component Diagram_** allows a senior developer to group classes together based on common purpose so that the developer and others can look at a software development project at a high level.
 
 ## Benefits of component diagrams
-Though **_Component Diagrams_** may seem complex at first glance, they are invaluable when it comes to building your system. **_Component Diagrams_** can help your team:
+Though **_Component Diagrams_** may seem complex at first glance, they are invaluable when it comes to building your system. 
 
-Imagine the system’s physical structure.
+**_Component Diagrams_** can help your team:
 
-Pay attention to the system’s components and how they relate.
+- Imagine the system’s physical structure.
 
-Emphasize the service behavior as it relates to the interface.
+- Pay attention to the system’s components and how they relate.
+
+- Emphasize the service behavior as it relates to the interface.
 
 How to u
