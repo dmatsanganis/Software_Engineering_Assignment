@@ -14,9 +14,7 @@ Though **_Component Diagrams_** may seem complex at first glance, they are inval
 **_Component Diagrams_** can help your team:
 
 - Imagine the system’s physical structure.
-
 - Pay attention to the system’s components and how they relate.
-
 - Emphasize the service behavior as it relates to the interface.
 
 How to u
