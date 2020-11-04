@@ -27,6 +27,8 @@ In **_Component Diagrams_**, the Unified Modeling Language dictates that compone
 ![Component_Diagrams_Theory](https://user-images.githubusercontent.com/34712449/97993998-7b6b0d00-1ded-11eb-9a8f-d7fcdbc115d0.png)
 
 ## Component Diagram examples
-UML component diagrams bring simplicity to even the most complex processes. Take a look at the examples below to see how you can map the behaviors of specific processes with component diagrams in UML.
+UML component diagrams bring simplicity to even the most complex processes. 
+
+Take a look at the example below to see the behaviors of specific processes with **_Component Diagrams_**:
 
 ![Component_Diagram_v2_Student](https://user-images.githubusercontent.com/34712449/98160018-3c6cb280-1ee6-11eb-86c9-77d36e44097f.jpg)
