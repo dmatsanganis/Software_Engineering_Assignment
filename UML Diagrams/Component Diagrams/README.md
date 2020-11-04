@@ -27,7 +27,7 @@ In **_Component Diagrams_**, the Unified Modeling Language dictates that compone
 ![Component_Diagrams_Theory](https://user-images.githubusercontent.com/34712449/97993998-7b6b0d00-1ded-11eb-9a8f-d7fcdbc115d0.png)
 
 ## Component Diagram examples
-UML component diagrams bring simplicity to even the most complex processes. 
+UML **_Component Diagrams_** bring simplicity to even the most complex processes. 
 
 Take a look at the example below to see the behaviors of specific processes with **_Component Diagrams_**:
 
