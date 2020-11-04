@@ -41,3 +41,4 @@ Some of the most common components of an **_Activity Diagram_** include:
 ## For this project you can find:
 - [x] Activity Diagrams first version (v1).
 - [x] Activity Diagrams second and final version (v2).
+
