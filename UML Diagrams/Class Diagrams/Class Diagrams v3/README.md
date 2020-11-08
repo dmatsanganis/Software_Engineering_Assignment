@@ -1,5 +1,5 @@
 ## Class Diagrams version 3 (v3)
-**_Class Diagrams v3_** is our third and final approach of **_Class Diagrams_** for the Project.
+**_Class Diagrams v3_** is our third and final approach of **_Class Diagrams_** for this Project.
 
 Some meaningful changes have been made and the **_Class Diagrams_** have now their final form.
 
