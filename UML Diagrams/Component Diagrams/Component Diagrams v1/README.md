@@ -14,3 +14,4 @@ The purpose of a component diagram is to show the relationship between different
 There exists a whole development approach that revolves around components: component-based development (CBD). In this approach, **_Component Diagrams_** allow the planner to identify the different components so the whole system does _what it's supposed to do_.
 
 In an Object Oriented Programming approach, the **_Component Diagram_** allows a senior developer to group classes together based on common purpose so that the developer and others can look at a software development project at a high level.
+
