@@ -1,5 +1,5 @@
 ## Component Diagrams version 1 (v1)
-**Component Diagrams v1_** is our initial approach of **_Component Diagrams_** for this Project.
+**_Component Diagrams v1_** is our initial approach of **_Component Diagrams_** for this Project.
 
 ## Component Diagrams version 1 (v1) includes:
 - [x] Component_Diagram_v1.vpd
