@@ -1,5 +1,7 @@
 ## Component Diagrams version 2 (v2)
-**_Component Diagrams v2_** is our initial approach of **_Component Diagrams_** for this Project.
+**_Component Diagrams v2_** is our second and final approach of **_Component Diagrams_** for this Project.
+
+Some meaningful changes have been made and the **_Component Diagrams_** have now their final form.
 
 ## Component Diagrams version 2 (v2) includes:
 - [x] Component_Diagram_v2.vpd
