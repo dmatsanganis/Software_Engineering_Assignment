@@ -8,3 +8,5 @@ With this information, they can begin to fit the data to the database model.Data
 
 ## Example of a Database Diagram
 The following is an orthologic example of **_Database Diagrams_** : 
+
+![Database_Diagram](https://user-images.githubusercontent.com/34712449/98808950-952bd600-2425-11eb-8781-082206cfe720.png)
