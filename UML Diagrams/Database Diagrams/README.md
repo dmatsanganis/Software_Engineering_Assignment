@@ -14,3 +14,4 @@ The following is an orthologic example of **_Database Diagrams_** :
 ## For this project you can find:
 - [x] Database_Diagram.png : _The final version of Database Diagrams._
 - [X] model.mwb : _MySQL Workbench File of the aforementioned Diagram._
+
