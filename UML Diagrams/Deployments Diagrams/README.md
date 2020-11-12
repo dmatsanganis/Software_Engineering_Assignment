@@ -8,3 +8,10 @@
 - What hardware and software will users directly interact with (PCs, network computers, browsers, etc).
 - How will you monitor the system once deployed.
 - How secure does the system needs to be (e.g. needs a firewall, physically secure hardware, etc).
+
+## Purpose of Deployment Diagrams
+- They show the structure of the run-time system
+- They capture the hardware that will be used to implement the system and the links between different items of hardware.
+- They model physical hardware elements and the communication paths between them
+- They can be used to plan the architecture of a system.
+- They are also useful for Document the deployment of software components or nodes
