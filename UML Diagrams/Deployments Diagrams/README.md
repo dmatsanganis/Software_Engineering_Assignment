@@ -18,3 +18,5 @@ They are often be used to model the static deployment view of a system, _topolog
 - They model physical hardware elements and the communication paths between them
 - They can be used to plan the architecture of a system.
 - They are also useful for Document the deployment of software components or nodes
+
+## For this project
