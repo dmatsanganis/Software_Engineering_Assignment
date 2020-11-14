@@ -1,5 +1,5 @@
 ## Deployment Diagrams version 2 (v2)
-**Deployment Diagrams v2_** is our second and final approach of **Deployment Diagrams_** for the Project.
+**Deployment Diagrams v2_** is our second and final approach of **Deployment Diagrams_** for this Project.
 
 ## Deployment Diagrams version 2 (v2) includes:
 - [x] Deployments_Diagrams_v2.jpg
