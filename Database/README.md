@@ -2,7 +2,7 @@
 
 In this section you should be able find all the Database-related context.
 
-[x]Database Diagram.png
+[X] Database Diagram.png
 
 [X]
 Add Database Diagram.png
